@@ -1,0 +1,58 @@
+{
+    "roleName": "Usuarios sin Rol",
+    "homePage": {
+        "connectionsChartHome": true,
+        "locationMapHome": true
+    },
+    "devicesPage": {
+        "columDataTableDevices": [
+            {
+                "sistem": "all",
+                "field": "type",
+                "header": "tipo de equipo"
+            },
+            {
+                "sistem": "all",
+                "field": "status_lock",
+                "header": "Estado de bloqueo"
+            },
+            {
+                "sistem": "all",
+                "field": "name",
+                "header": "Nombre"
+            },
+            {
+                "sistem": "all",
+                "field": "last_date",
+                "header": "Ultima Conexion"
+            }
+        ]
+    },
+    "dashboardDevicePage": {},
+    "groupsPage": {},
+    "dashboardGroupPage": {},
+    "usersPage": {},
+    "applicationsPage": {},
+    "rolesPage": {},
+    "reportsPage": {},
+    "geofencesPage": {},
+    "safeWebHomePage": {
+        "blackListLine": true,
+        "whiteListLine": true,
+        "querysLine": true,
+        "top3LastSearched": true,
+        "top10UrlsVerticalBar": true
+    },
+    "safeWebListsPage": {},
+    "safeWebWordsPage": {},
+    "safeWebPreferencesPage": {},
+    "preferencesSettingsPage": {},
+    "preferencesReportsPage": {},
+    "preferencesLossesPage": {},
+    "preferencesUseTimePage": {},
+    "preferencesGeofencePage": {},
+    "preferencesRxartSecurePage": {},
+    "preferencesServerPage": {
+        "restoreDB": true
+    }
+}

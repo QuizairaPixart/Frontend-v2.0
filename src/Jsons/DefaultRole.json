@@ -1,0 +1,143 @@
+{
+    "roleName": "",
+    "homePage": {
+        "connectionsChartHome": true,
+        "locationMapHome": true
+    },
+    "devicesPage": {
+        "seeDashboardInDevices": true,
+        "columDataTableDevices": [
+            {
+                "sistem": "all",
+                "field": "type",
+                "header": "tipo de equipo"
+            },
+            {
+                "sistem": "all",
+                "field": "status_lock",
+                "header": "Estado de bloqueo"
+            },
+            {
+                "sistem": "all",
+                "field": "name",
+                "header": "Nombre"
+            },
+            {
+                "sistem": "all",
+                "field": "last_date",
+                "header": "Ultima Conexion"
+            }
+        ]
+    },
+    "dashboardDevicePage": {
+        "idCard": true,
+        "lastConnectionCard": true,
+        "soCard": true,
+        "statusDeviceCard": true,
+        "diskChartDashboardDevice": true,
+        "ramChartDashboardDevice": true,
+        "battery": true,
+        "lastLocationMap": true,
+        "moreLocationsButton": true,
+        "connectionsVerticalBar": true,
+        "actionRxartSecure": true
+    },
+    "groupsPage": {
+        "newGroup": true,
+        "removeGroups": true,
+        "seeDashboardGroup": true
+    },
+    "dashboardGroupPage": {
+        "addUserstrue": true,
+        "deleteUserstrue": true,
+        "selectRowsDataTableUserstrue": true,
+        "addDevicestrue": true,
+        "deleteDevicestrue": true,
+        "selectRowsDataTableDevicestrue": true,
+        "addGeofencestrue": true,
+        "deleteGeofencestrue": true,
+        "selectRowsDataTableGeofencestrue": true
+    },
+    "usersPage": {
+        "newGroupUser": true,
+        "newUserUser": true,
+        "removeUsersUser": true,
+        "editUsersUser": true,
+        "selectRowsDataTableUser": true
+    },
+    "applicationsPage": {
+        "editCategoryApplication": true
+    },
+    "rolesPage": {
+        "newRol": true,
+        "removeRoles": true,
+        "seeDashboardRole": true
+    },
+    "reportsPage": {
+        "diskChartReport": true,
+        "ramChartReport": true,
+        "connectionsChartReport": true,
+        "top3LastSearchedReport": true,
+        "top10UrlsVerticalBarReport": true,
+        "querysLineReport": true
+    },
+    "geofencesPage": {
+        "newGeocerca": true,
+        "removeGeocercas": true,
+        "seeInformationGeocerca": true,
+        "editGeocerca": true
+    },
+    "safeWebHomePage": {
+        "blackListLine": true,
+        "whiteListLine": true,
+        "querysLine": true,
+        "top3LastSearched": true,
+        "top10UrlsVerticalBar": true
+    },
+    "safeWebListsPage": {
+        "addUrlToBlackList": true,
+        "deleteUrlsBlackList": true,
+        "addUrlToWhiteList": true,
+        "deleteUrlsWhiteList": true,
+        "buttonsSuspect": true
+    },
+    "safeWebWordsPage": {
+        "addWord": true,
+        "deleteWords": true
+    },
+    "safeWebPreferencesPage": {
+        "history": true,
+        "defaultResponse": true,
+        "editSafeWeb": true
+    },
+    "preferencesSettingsPage": {
+        "times": true,
+        "locations": true
+    },
+    "preferencesReportsPage": {
+        "reports": true
+    },
+    "preferencesLossesPage": {
+        "defaultConfiguration": true,
+        "editLockSettings": true
+    },
+    "preferencesUseTimePage": {
+        "restriction": true,
+        "editRestrictionSettings": true
+    },
+    "preferencesGeofencePage": {
+        "notificationsGeofences": true,
+        "actionsGeofences": true,
+        "historyGeofences": true
+    },
+    "preferencesRxartSecurePage": {
+        "parameters": true,
+        "messages": true
+    },
+    "preferencesServerPage": {
+        "restoreDB": true,
+        "editMdmPreferences": true,
+        "editSafeWebPreferences": true,
+        "editRxartSecurePreferences": true
+    }
+}

@@ -1,0 +1,18 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerIndex{
+    height: 5rem;
+    padding: 1rem;
+}
+
+.logoMdm{
+    background-image: url("./logo-mdm.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 10rem;
+    height: 3rem;
+}

@@ -1,0 +1,20 @@
+.indexContainer{
+    background-color: var(--bg-black-primary);
+    min-height: 100vh;
+    color: var(--color-white-primary);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.title{
+    font-size: 3rem;
+    text-align: left;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+.paragraph{
+    padding: 1rem;
+    font-size: 1rem;
+}

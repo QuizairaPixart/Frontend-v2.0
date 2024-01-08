@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
+  font-family: 'Source Sans Pro', sans-serif;
+  --btn-bg-blue-primary: #0d6efd;
+  --btn-bg-blue-secondary: #0b5ed7;
+  --bg-black-primary: #000000;
+  --color-white-primary: #fff;
+  --bs-white-secondary: #ffffff80;
+  --color-light-blue-primary: #61c1ed;
+  --color-light-gray-primary: #989898;
+}
+
+/* colocar los colores de toda la aplicación aquí*/
